@@ -29,9 +29,6 @@ $ conda install cookiecutter
     cookiecutter https://github.com/drivendata/cookiecutter-data-science
 
 
-[![asciicast](https://asciinema.org/a/244658.svg)](https://asciinema.org/a/244658)
-
-
 ### The resulting directory structure
 ------------
 
@@ -78,9 +75,6 @@ The directory structure of your new project looks like this:
 
 ```
 
-## Contributing
-
-We welcome contributions! [See the docs for guidelines](https://drivendata.github.io/cookiecutter-data-science/#contributing).
 
 ### Installing development requirements
 ------------
