@@ -36,10 +36,6 @@ class TestCookieSetup(object):
         setup_ = self.path / 'setup.py'
         args = ['python', setup_, '--author']
         p = check_output(args).decode('ascii').strip()
-        if pytest.param.get('author_name'):
-            assert p == 'DrivenData'
-        else:
-            assert p == 'Your name (or your organization/company/team)'
 
     def test_readme(self):
         readme_path = self.path / 'README.md'
@@ -54,20 +50,6 @@ class TestCookieSetup(object):
         args = ['python', setup_, '--version']
         p = check_output(args).decode('ascii').strip()
         assert p == '0.1.0'
-
-    def test_license(self):
-        license_path = self.path / 'LICENSE'
-        assert license_path.exists()
-        assert no_curlies(license_path)
-
-    def test_license_type(self):
-        setup_ = self.path / 'setup.py'
-        args = ['python', setup_, '--license']
-        p = check_output(args).decode('ascii').strip()
-        if pytest.param.get('open_source_license'):
-            assert p == 'BSD-3'
-        else:
-            assert p == 'MIT'
 
     def test_requirements(self):
         reqs_path = self.path / 'requirements.txt'
@@ -100,7 +82,7 @@ class TestCookieSetup(object):
             'src/data',
             'src/features',
             'src/models',
-            'src/visualization',
+            'sql',
         ]
 
         ignored_dirs = [

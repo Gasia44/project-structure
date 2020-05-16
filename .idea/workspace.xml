@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43da66db-dce2-4e16-8b85-5cb34a57fcab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/features/preprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/read_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookiecutter.json" beforeDir="false" afterPath="$PROJECT_DIR$/cookiecutter.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_creation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/data/external/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/commands.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/getting-started.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/make.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/references/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/data/make_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/data/make_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/visualization/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/visualization/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/visualization/visualize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/tox.ini" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="435">
+                <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cookiecutter.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>open_source_license</find>
+      <find>test_license_type</find>
+      <find>descr</find>
+      <find>description</find>
+      <find>PYTHON_INTERPRETER</find>
+      <find>author_name</find>
+      <find>BUCKET</find>
+      <find>PROFILE</find>
+      <find>aws_</find>
+      <find>aws_profile</find>
+      <find>s3_bucket</find>
+      <find>sync</find>
+      <find>s3</find>
+      <find>team_name</find>
+      <find>tea</find>
+      <find>cookiecutter.python_interpreter</find>
+      <find>json</find>
+      <find>cinder</find>
+      <find>cookiecutter</find>
+      <find>project_name</find>
+      <find>python_interpreter</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>team_name</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/requirements.txt" />
+        <option value="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/data/make_dataset.py" />
+        <option value="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/read_data.py" />
+        <option value="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/commands.rst" />
+        <option value="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/Makefile" />
+        <option value="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/README.md" />
+        <option value="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/features/preprocess.py" />
+        <option value="$PROJECT_DIR$/cookiecutter.json" />
+        <option value="$PROJECT_DIR$/tests/test_creation.py" />
+        <option value="$PROJECT_DIR$/tests/conftest.py" />
+        <option value="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/setup.py" />
+        <option value="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/conf.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="714" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project-data-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-data-science" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-data-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-data-science" type="462c0819:PsiDirectoryNode" />
+              <item name="{{ cookiecutter.repo_name }}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/{{ cookiecutter.repo_name }}/sql" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43da66db-dce2-4e16-8b85-5cb34a57fcab" name="Default Changelist" comment="" />
+      <created>1588724974292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588724974292</updated>
+      <workItem from="1588724976613" duration="5221000" />
+      <workItem from="1588872749687" duration="35000" />
+      <workItem from="1589503203244" duration="3001000" />
+      <workItem from="1589588433366" duration="474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8731000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/tests/test_creation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1223">
+          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/tox.ini" />
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/.env">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/data/make_dataset.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/read_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/features/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/features/build_features.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/features/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/models/train_model.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/models/predict_model.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/src/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/mkdocs.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/index.rst" />
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/make.bat" />
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/Makefile" />
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/commands.rst" />
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/conf.py" />
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/docs/getting-started.rst" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/docs/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="4" selection-start-line="12" selection-end-line="12" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/test_environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookiecutter.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/{{ cookiecutter.repo_name }}/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="435">
+            <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
