@@ -21,6 +21,10 @@ class ReadData:
             result = executor.map(self._read_csv_file, all_files)
 
         df_temp = pd.concat(result)
+        try:
+            df_temp['created_at'] = pd.to_datetime(df_temp['created_at'])
+        except:
+            pass
         df_temp['created_at'] = pd.to_datetime(df_temp['created_at'])
         time_elapsed = time.time() - start_time
         print('done with time:', str(timedelta(seconds=time_elapsed)))
