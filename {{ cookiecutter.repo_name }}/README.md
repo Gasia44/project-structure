@@ -6,6 +6,9 @@ Project Organization
 
     ├── Makefile               <- Makefile with commands like `make data` or `make train`
     ├── README.md              <- The top-level README for developers using this project.
+    │
+    ├── config                 <- Configurations in Json/Yaml format
+    │
     ├── data
     │   ├── interim            <- Intermediate data that has been transformed.
     │   ├── processed          <- The final, canonical data sets for modeling.
